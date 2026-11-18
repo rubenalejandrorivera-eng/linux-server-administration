@@ -60,7 +60,7 @@ git clone https://github.com/rubenalejandrorivera-eng/linux-server-administratio
 Enter the project directory:
 
 ```bash
-cd linux-server-administration-toolkit
+cd linux-server-administration
 ```
 
 Grant execution permissions:
@@ -122,6 +122,18 @@ python3 python/log_analyzer.py logs/sample.log
 - Investigating application errors through log analysis.
 - Practicing Linux administration and troubleshooting.
 
+## Screenshots
 
+### Main Menu
+![Main Menu](screenshots/1.png)
+
+### Server Health Check
+![Server Health Check](screenshots/2.png)
+
+### Disk Monitor
+![Disk Monitor](screenshots/3.png)
+
+### Log Analyzer
+![Log Analyzer](screenshots/4.png)
 
 
