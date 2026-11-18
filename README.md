@@ -23,7 +23,7 @@ This project provides four utilities for basic Linux server administration:
 ## Project Structure
 
 ```text
-linux-server-administration-toolkit/
+linux-server-administration/
 ├── scripts/
 │   ├── server_health_check.sh
 │   ├── disk_monitor.sh
