@@ -54,7 +54,7 @@ linux-server-administration-toolkit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/rubenalejandrorivera-eng/linux-server-administration-toolkit.git
+git clone https://github.com/rubenalejandrorivera-eng/linux-server-administration.git
 ```
 
 Enter the project directory:
